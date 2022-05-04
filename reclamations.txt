@@ -1,0 +1,9 @@
+123 Restauration Services -- 17/12/2021 -- B 7 
+1235 Restauration Autres -- 13/12/2021 -- -- 10 
+65465 Restauration Autres -- 13/12/2021 -- -- 10 
+500 Hebergement Amenagement -- 19/12/2019 -- -- 10 
+25 Restauration Autres mediocre 13/12/2020 fort -- 10 
+2555 Restauration Amenagement -- 13/12/2021 -- -- 10 
+125 Restauration Amenagement etroit 1/12/2021 faible A 7 
+2587 Restauration Amenagement etroit 30/11/2021 faible A 6 
+1 Restauration Amenagement etroit 30/11/2021 faible A 6 
